@@ -1,8 +1,8 @@
-#Django AWS Deployment
+# Django AWS Deployment
 
 Este projeto faz parte de uma atividade da faculdade, onde foi necessário desenvolver uma aplicação Django e hospedá-la na AWS.
 
-###🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 
 - 🐍 Python 3.12
 
@@ -53,11 +53,11 @@ python manage.py runserver
 
 Acesse http://127.0.0.1:8000/ no navegador.
 
-###📝 **Notas Finais**
+### 📝 **Notas Finais**
 
 🔒 Certifique-se de configurar corretamente as permissões de segurança no AWS Security Groups
 
-###👤 Autor
+### 👤 Autor
 
 📌 João Gabriel Torres - RGM: 28017188 - [Github](https://github.com/joaogkt)
 
