@@ -18,8 +18,8 @@ Este projeto faz parte de uma atividade da faculdade, onde foi necessário desen
 
 🔹 1. **Clonar o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/joaogkt/atividadeAWS.git
+cd atividadeAWS
 ```
 
 🔹 2. **Criar e Ativar um Ambiente Virtual**
